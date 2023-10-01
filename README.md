@@ -15,7 +15,7 @@ Followint technologiease are used:
   
   API used:
             1) CHAT BOT.IO API
-            2) WHIOS API
+            2) WHOIS API
             3) PAGESPEED INSIGHT API
             4)  VIRUSTOTAL
             
